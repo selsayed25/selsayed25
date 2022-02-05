@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selsayed25
-- 👀 I’m interested in Science (mostly Biology and Chemistry), Tech, Mathematics, and programming (Python, Java, HTML, and CSS)
+- 👀 I’m interested in Science (mostly Biology and Chemistry), Tech, Mathematics, and programming (Python, Java, HTML, CSS, R, and SQL)
 - 🌱 I’m currently learning how to speak Python, Java, and HTML. 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: Facebook and Instagram: @samielsayedtj
