@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning how to speak Python, Java, and HTML. 
 - 📫 How to reach me: Facebook and Instagram: @samielsayedtj
 --->
+# Welcome to Sami Elsayed's Github page!
+
+- Everything is free for use otherwise noted
+
+# My Github Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selsayed25)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 selsayed25/selsayed25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
