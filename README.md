@@ -12,10 +12,6 @@ Everything is free for use otherwise noted
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selsayed25)](https://github.com/anuraghazra/github-readme-stats)
 
-# Most used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selsayed25)](https://github.com/anuraghazra/github-readme-stats)
-
 # Profile Views count
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=selsayed25)
