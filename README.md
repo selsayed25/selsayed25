@@ -4,9 +4,23 @@
 - 🌱 I’m currently learning how to speak Python, Java, and HTML. 
 - 📫 How to reach me: Facebook and Instagram: @samielsayedtj
 --->
-# Welcome to Sami Elsayed's Github page!
 
-Everything is free for use otherwise noted
+# Sami's Learning Environment
+
+Welcome! My name is Sami Elsayed and I'm currently a sophmore at [Thomas Jefferson High School for Science and Technology](https://tjhsst.fcps.edu). I love programming and building things, some of my favorite projects that I'm currently making or have made:
+
+- [The Techbook (currently private)](https://github.com/selsayed25/techbook): Home to the world's information on every aspect of Tech. It's a collection of the best explanation on things in once nice place!
+- Snakepy - A Snake game using Pygame
+- [A drawing app using Python](https://github.com/selsayed25/python-drawing-app)
+- [My very own website!](https://github.com/selsayed25/mywebsite)
+- DiligentOS - My own Operating System
+...and so much more!
+
+I'm also the Founder of @techfluente, a organization dedicated to helping people across the Washington D.C Metro area, to learn programming and the tech world through projects and events!
+
+## Inquires
+
+You can message me via Facebook Messenger or Instagram (@samielsayedtj), or email me at [techfluente@gmail.com](mailto:techfluente@gmail.com)
 
 # My Github Stats
 
