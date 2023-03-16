@@ -17,11 +17,11 @@ Welcome! My name is Sami Elsayed and I'm currently a sophmore at [Thomas Jeffers
 
 ...and so much more!
 
-I'm also the Founder of @techfluente, a organization dedicated to helping people across the Washington D.C Metro area, to learn programming and the tech world through projects and events!
+I'm also the Founder of Cardinal @cardinaldevorg, a organization dedicated to helping people across the Washington D.C Metro area, to learn programming and the tech world through projects and events!
 
 ## Inquires
 
-You can message me via Facebook Messenger or Instagram (@samielsayedtj), or email me at [techfluente@gmail.com](mailto:techfluente@gmail.com)
+You can message me via Facebook Messenger or Instagram, or email me at [techfluente@gmail.com](mailto:techfluente@gmail.com)
 
 # My Github Stats
 
