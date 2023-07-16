@@ -7,19 +7,18 @@
 
 # Sami's Learning Environment
 
-![Header](./static/img/github-header-image.png)
+<center>![Header](./static/img/github-header-image.png)</center>
 
-Welcome! My name is Sami Elsayed and I'm currently a sophmore at [Thomas Jefferson High School for Science and Technology](https://tjhsst.fcps.edu). I am a current Sysadmin at my school's computer systems lab ([@tjcsl](https://github.com/tjcsl)) in which I work on maintaining the school's main infrastructure. I love programming and building things, some of my favorite projects that I'm currently making or have made:
+Welcome! My name is Sami Elsayed and I'm currently a Junior at [Thomas Jefferson High School for Science and Technology](https://tjhsst.fcps.edu). I am a current Sysadmin at my school's computer systems lab ([@tjcsl](https://github.com/tjcsl)) in which I work on maintaining the school's main infrastructure. I love programming and building things, some of my favorite projects that I'm currently making or have made:
 
 - [The Techbook (currently private)](https://github.com/selsayed25/techbook): Home to the world's information on every aspect of Tech. It's a collection of the best explanation on things in once nice place!
 - [Snakepy](https://github.com/selsayed25/snakepy) - A Snake game using Pygame
 - [A drawing app using Python](https://github.com/selsayed25/python-drawing-app)
 - [My very own website!](https://github.com/selsayed25/mywebsite)
-- [DiligentOS](https://github.com/selsayed25/diligentOS) - My own Operating System
 
 ...and so much more!
 
-I'm also the Founder of Cardinal @cardinaldevorg, a organization dedicated to helping people across the Washington D.C Metro area, to learn programming and the tech world through projects and events!
+I'm also the Founder of Cardinal @cardinaldevorg, a organization dedicated to developing and creating the next generation of coders and developers through projects that would help the massive community in the Washington D.C Metro area. We also have an initiative to teach underrepresented and low-income kids and adults programming and the tech world through projects and events!
 
 ## Inquires
 
