@@ -18,17 +18,29 @@ Welcome! My name is Sami Elsayed and I'm currently a Junior at [Thomas Jefferson
 
 ...and so much more!
 
-I'm also the Founder of Cardinal [(@cardinaldevorg)](https://github.com/cardinaldevorg), a organization dedicated to developing and creating the next generation of coders and developers through projects that would help the massive community in the Washington D.C Metro area. We also have an initiative to teach underrepresented and low-income kids and adults programming and the tech world through projects and events!
+I'm also the Founder of Cardinal ([@cardinaldevorg](https://github.com/cardinaldevorg)), a organization dedicated to developing and creating the next generation of coders and developers through projects that would help the massive community in the Washington D.C Metro area. We also have an initiative to teach underrepresented and low-income kids and adults programming and the tech world through projects and events!
+
+I'm also currently a volunteer and a contributor at Mozilla ([@mozilla](https://github.com/mozilla)), where I'm trying to learn the basics and the key ideas of what life is as a software engineer and as a data scientist.
+
+## My Task List
+
+Currently for the summer, I have a few initatives before I go into the 2023-2024 school year:
+
+- [ ] Make Cardinal Public and Send Positions Forms
+- [ ] Pre-study Physics
+- [ ] Push the Techbook to Alpha stage
+- [ ] Plan out a schedule for the school year (trying to promote exercising, coding, and learning all in one schedule)
+- [ ] Finalize a list of ideas for a senior research project
 
 ## Inquires
 
 You can message me via Facebook Messenger or Instagram, or email me at [techfluente@gmail.com](mailto:techfluente@gmail.com)
 
-# My Github Stats
+## My Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selsayed25)](https://github.com/anuraghazra/github-readme-stats)
 
-# Profile Views count
+## Profile Views count
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=selsayed25)
 <!---
