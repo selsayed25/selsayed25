@@ -18,7 +18,7 @@ Welcome! My name is Sami Elsayed and I'm currently a Junior at [Thomas Jefferson
 
 ...and so much more!
 
-I'm also the Founder of Cardinal @cardinaldevorg, a organization dedicated to developing and creating the next generation of coders and developers through projects that would help the massive community in the Washington D.C Metro area. We also have an initiative to teach underrepresented and low-income kids and adults programming and the tech world through projects and events!
+I'm also the Founder of Cardinal [(@cardinaldevorg)](https://github.com/cardinaldevorg), a organization dedicated to developing and creating the next generation of coders and developers through projects that would help the massive community in the Washington D.C Metro area. We also have an initiative to teach underrepresented and low-income kids and adults programming and the tech world through projects and events!
 
 ## Inquires
 
