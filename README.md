@@ -27,9 +27,9 @@ I'm also currently a volunteer and a contributor at Mozilla ([@mozilla](https://
 Currently for the summer, I have a few initatives before I go into the 2023-2024 school year:
 
 - [ ] Make Cardinal Public and Send Positions Forms
-- [*] Pre-study Physics
+- [x] Pre-study Physics
 - [ ] Push the Techbook to Alpha stage
-- [*] Plan out a schedule for the school year (trying to promote exercising, coding, and learning all in one schedule)
+- [x] Plan out a schedule for the school year (trying to promote exercising, coding, and learning all in one schedule)
 - [ ] Finalize a list of ideas for a senior research project
 
 ## Inquires
