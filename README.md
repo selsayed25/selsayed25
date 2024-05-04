@@ -20,8 +20,6 @@ Welcome! My name is Sami Elsayed and I'm currently a Junior at [Thomas Jefferson
 
 I'm also the Founder of Cardinal ([@cardinaldevorg](https://github.com/cardinaldevorg)), a organization dedicated to developing and creating the next generation of coders and developers through projects that would help the massive community in the Washington D.C Metro area. We also have an initiative to teach underrepresented and low-income kids and adults programming and the tech world through projects and events!
 
-I'm also currently a volunteer and a contributor at Mozilla ([@mozilla](https://github.com/mozilla)), where I'm trying to learn the basics and the key ideas of what life is as a software engineer and as a data scientist.
-
 ## Inquires
 
 You can message me via Facebook Messenger or Instagram, or email me at [techfluente@gmail.com](mailto:techfluente@gmail.com)
