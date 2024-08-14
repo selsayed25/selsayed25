@@ -7,7 +7,11 @@
 
 # Sami's Learning Environment
 
+<center>
+
 ![Header](./static/img/github-header-image-2024.png)
+
+</center>
 
 Welcome! My name is Sami Elsayed and I'm currently a Senior at [Thomas Jefferson High School for Science and Technology](https://tjhsst.fcps.edu). I am the current Lead Sysadmin at my school's computer systems lab ([@tjcsl](https://github.com/tjcsl)) in which I work on maintaining the school's main infrastructure. I love programming and building things, some of my favorite projects that I'm currently making or have made:
 
