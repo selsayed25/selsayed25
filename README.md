@@ -9,24 +9,29 @@
 
 <center>
 
-![Header](./static/img/github-header-image-2024.png)
+![Header](./static/img/github-header-image-2025.png)
 
 </center>
 
-Welcome! My name is Sami Elsayed and I'm currently a Senior at [Thomas Jefferson High School for Science and Technology](https://tjhsst.fcps.edu). I am the current Lead Sysadmin at my school's computer systems lab ([@tjcsl](https://github.com/tjcsl)) in which I work on maintaining the school's main infrastructure. I love programming and building things, some of my favorite projects that I'm currently making or have made:
+Welcome! My name is Sami Elsayed and I'm currently a Freshman at [George Mason University](https://www.gmu.edu) studying Cyber Security Engineering, with the likelihood of double majoring in computer science and minoring in mathematics. I graduated from Thomas Jefferson High School for Science and Technology in 2025, where I was actively involved in various tech-related projects and classes, and was the Lead Sysadmin at my school's computer systems lab ([@tjcsl](https://github.com/tjcsl)). I love programming and building things, some of my favorite projects that I'm currently making or have made:
 
 - [The Techbook](https://github.com/selsayed25/techbook): Home to the world's information on every aspect of Tech. It's a collection of the best explanation on things in once nice place!
 - [Snakepy](https://github.com/selsayed25/snakepy) - A Snake game using Pygame
 - [A drawing app using Python](https://github.com/selsayed25/python-drawing-app)
 - [My very own website!](https://github.com/selsayed25/website)
+- [Codects](https://tcedco.github.io/website): A series where I develop projects and posts about things I find interesting in STEM. Interesting things ranging from blockchain, to teaching derivatives, to estimating pi using the Monte Carlo method and more.
 
 ...and so much more!
 
-I'm also the Founder of Cardinal ([@cardinaldevorg](https://github.com/cardinaldevorg)), a organization dedicated to developing and creating the next generation of coders and developers through projects that would help the massive community in the Washington D.C Metro area. We also have an initiative to teach underrepresented and low-income kids and adults programming and the tech world through projects and events!
+I'm also the Founder of Heliothon, a hopefull startup that aims to revolutionize AI hardware through research and developing a new type of AI chip that would be more efficient, cheaper, and faster than current AI chips. You can find out more about Heliothon on [our website](https://heliothon.github.io/).
 
 ## Inquires
 
-You can message me via Facebook Messenger or Instagram, or email me at [techfluente@gmail.com](mailto:techfluente@gmail.com)
+You can message me via Facebook Messenger or Instagram, or email me at [elsayedcyber@gmail.com](mailto:elsayedcyber@gmail.com)
+
+If you want to collaborate on a project, or have any questions, feel free to reach out! I'm always open to new ideas and opportunities.
+
+My Resume is available as well for your convenience [here](./static/docs/resume.pdf).
 
 ## My Github Stats
 
