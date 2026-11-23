@@ -9,7 +9,7 @@
 
 <center>
 
-![Header](./static/img/github-header-image-2025.png)
+![Header](./static/img/github-header-image-2026.png)
 
 </center>
 
